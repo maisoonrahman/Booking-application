@@ -1,4 +1,4 @@
-# Booking-application
+# Booking Form
 This simple booking form is designed using Bootstrap to facilitate hotel reservations. It calculates prices based on the number of adults and the duration of the stay.
 
 # Overview
